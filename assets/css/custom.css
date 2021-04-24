@@ -11,7 +11,7 @@ body {
 }
 
 .title1{
-    font-family: "Roboto Slab";
+    font-family: "Roboto Slab", serif;
     font-weight: 400;
     font-size: 35px;
     color: #60257c;
@@ -33,3 +33,19 @@ body {
     font-family: 'Roboto Slab', serif;
     font-size: 20px;
 }
+
+/* Sección ¿Cómo lo hacemos? */
+.section-title h2{
+    font-family: 'Roboto Slab', serif;
+}
+
+.box-style .box-icon-style{
+    border: 2px solid #60257c;
+    color: #60257c;
+}
+
+.box-style:hover .box-icon-style {
+    color: #fff;
+    border-color: transparent;
+    background: #60257c;
+  }
