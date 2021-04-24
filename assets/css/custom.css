@@ -1,0 +1,35 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: #6A7C92;
+    overflow-x: hidden;
+}
+
+#nav{
+    font-weight: 700;
+}
+
+.title1{
+    font-family: "Roboto Slab";
+    font-weight: 400;
+    font-size: 35px;
+    color: #60257c;
+
+}
+.title2{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #60257c;
+}
+
+.subtitle{
+    font-size: 20px;
+}
+
+.theme-btn {
+    background: #9e9e9e !important;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
