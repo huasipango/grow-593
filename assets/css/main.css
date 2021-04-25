@@ -551,16 +551,9 @@ p {
   z-index: 1;
 }
 
-.navbar-nav .nav-item:hover a {
-  color: #3763EB;
-}
-
 .navbar-nav .nav-item a {
-  font-size: 16px;
-  color: #051441;
   transition: all 0.3s ease-out 0s;
   position: relative;
-  padding: 20px;
   display: inline-flex;
   align-items: center;
 }
