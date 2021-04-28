@@ -49,6 +49,19 @@ body {
 /* Sección ¿Cómo lo hacemos? */
 .section-title h2{
     font-family: 'Roboto Slab', serif;
+    font-size: 45px;
+    color: #60257c;
+}
+
+.subtitle2{
+    font-weight: 500;
+    font-size: 25px !important;
+    color: #000000;
+}
+
+.box-style .box-content-style h4 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
 }
 
 .box-style .box-icon-style{
