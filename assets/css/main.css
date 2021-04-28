@@ -276,7 +276,7 @@ p {
 
 .section-title h2 {
   line-height: 55px;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 
 @media (max-width: 767px) {
@@ -286,7 +286,7 @@ p {
 }
 
 .section-title p {
-  font-size: 18px;
+  font-size: 25px;
 }
 
 /*===== All Preloader Style =====*/
