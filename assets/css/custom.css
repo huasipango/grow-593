@@ -92,3 +92,15 @@ body {
 }
 
 /* Sección de Precios */
+
+
+/* Footer */
+.title-p-footer{
+    font-family: 'Roboto Slab', serif;
+}
+
+.title-h4-footer{
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    color: #000000;
+}
