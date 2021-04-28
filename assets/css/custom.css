@@ -50,6 +50,7 @@ body {
 .section-title h2{
     font-family: 'Roboto Slab', serif;
     font-size: 45px;
+    font-weight: 600;
     color: #60257c;
 }
 
@@ -74,3 +75,18 @@ body {
     border-color: transparent;
     background: #60257c;
   }
+
+  /* About Us */
+.section-title-2{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300 !important;
+    font-size: 40px;
+    color: #60257c;
+}
+
+.section-title-3{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400 !important;
+    font-size: 35px;
+    color: #60257c;
+}

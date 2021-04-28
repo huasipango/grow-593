@@ -133,7 +133,7 @@ p {
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-  color: #6A7C92;
+  color: #000000;
   margin: 0px;
 }
 
@@ -276,7 +276,6 @@ p {
 
 .section-title h2 {
   line-height: 55px;
-  font-weight: 600;
   margin-bottom: 15px;
 }
 
@@ -1041,7 +1040,7 @@ p {
 .about-section .about-img-wrapper .about-experience {
   width: 300px;
   border-radius: 27px;
-  background: linear-gradient(to top left, #3763eb 0%, #6f58e8 100%);
+  background: #adaeae;
   border: 5px solid #eff2f9;
   padding: 40px 20px;
   position: absolute;
