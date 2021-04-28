@@ -218,7 +218,7 @@ p {
   padding: 14px 40px;
   background: transparent;
   border: 1.5px solid #3763EB;
-  color: #6A7C92;
+  color: #c5c5c5;
   font-size: 18px;
   box-shadow: none;
 }
@@ -1350,9 +1350,11 @@ p {
 }
 
 .pricing-section .single-pricing h4 {
-  margin-bottom: 25px;
-  color: #6A7C92;
-  font-weight: 600;
+  font-family: 'Roboto Slab', serif;
+  margin-bottom: 25px;  
+  font-weight: 500;
+  font-size: 25px;
+  color: #60257c;
 }
 
 .pricing-section .single-pricing h3 {
@@ -1362,12 +1364,13 @@ p {
 }
 
 .pricing-section .single-pricing ul {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .pricing-section .single-pricing ul li {
   font-size: 16px;
-  line-height: 40px;
+  line-height: 20px;
+  color: #000000;
 }
 
 .pricing-section .single-pricing a {
