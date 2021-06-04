@@ -1074,7 +1074,6 @@ p {
 .about-section .about-content-wrapper .about-content .counter-up {
   display: flex;
   justify-content: space-between;
-  text-align: justify;
 }
 
 @media (max-width: 767px) {
