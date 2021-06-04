@@ -863,6 +863,7 @@ p {
   position: absolute;
   left: -60px;
   bottom: 60px;
+  width: 200px;
   z-index: -1;
 }
 
